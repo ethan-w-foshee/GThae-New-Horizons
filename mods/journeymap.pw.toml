@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-1.7.10-5.2.23-fairplay.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b604cfc7a887644f33f1b06e2dbeb846e6f5c6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8879298
+project-id = 32274

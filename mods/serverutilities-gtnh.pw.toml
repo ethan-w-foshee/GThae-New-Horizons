@@ -1,0 +1,13 @@
+name = "ServerUtilities - GTNH"
+filename = "ServerUtilities-2.4.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9878b7f4027b6b8a5fa41b4b004993116e0ea1ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9055633
+project-id = 1539566

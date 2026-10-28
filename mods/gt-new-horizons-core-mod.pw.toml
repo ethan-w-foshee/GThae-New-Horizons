@@ -1,0 +1,13 @@
+name = "GT New Horizons Core Mod"
+filename = "GTNewHorizonsCoreMod-2.9.84.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88eca2776dd9f37d7bdb2d9411d6dac852168476"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9058528
+project-id = 314432

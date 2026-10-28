@@ -1,0 +1,13 @@
+name = "Salis Arcana"
+filename = "salisarcana-v2.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "297dbc91c040c324eb088729d69d72c5b80aa975"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8926401
+project-id = 1162488

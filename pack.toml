@@ -1,0 +1,13 @@
+name = "G Thae New Horizons"
+author = "Ethan"
+version = "2.9.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8d4ca768a38c690e4c7b4e164efad9b6d19f242492b5f5f25e9f2e94022656f2"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

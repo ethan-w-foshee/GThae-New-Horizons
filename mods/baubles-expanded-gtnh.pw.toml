@@ -1,0 +1,13 @@
+name = "Baubles-Expanded-GTNH"
+filename = "BaublesExpanded-2.2.25-GTNH.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3b1e121012388ce9bec55351b6adf3902b3af58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9057406
+project-id = 1238321

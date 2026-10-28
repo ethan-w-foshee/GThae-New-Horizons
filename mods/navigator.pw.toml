@@ -1,0 +1,13 @@
+name = "Navigator"
+filename = "navigator-1.1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdfba7da446478c3e6d65affb4d65a7470705e3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8907397
+project-id = 1539674
