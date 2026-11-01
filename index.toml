@@ -71301,8 +71301,8 @@ file = "mods/NotEnoughItems-2.8.171-GTNH.jar"
 hash = "9a822134bda6cbaf4f414b825fc10dcde8e2944cc366f96df92420e54c88b5a3"
 
 [[files]]
-file = "mods/OTHTechnology-2.2.0.jar"
-hash = "8394acdaa5524e5a4af426fa3b0127974628fb5b034dc42e72e8918e6232d71c"
+file = "mods/OTHTechnology-2.2.0.1.jar"
+hash = "57205d543ab15f13415f783723bcd688342f57e6af4f34e38b981c3e0b8f4421"
 
 [[files]]
 file = "mods/OpenBlocks-1.12.22-GTNH.jar"
@@ -71493,8 +71493,8 @@ file = "mods/TwilightForest-2.7.45.jar"
 hash = "84eb70c61c8e73e2dc7c5e5a332789f379ed1b31bf70b51f25146affb182a818"
 
 [[files]]
-file = "mods/TwistSpaceTechnology-0.8.0-RC2.7.jar"
-hash = "fc179d015d2d7c64227515dd667ed1682b74d53720e27204f75731c1b10403bb"
+file = "mods/TwistSpaceTechnology-0.8.0-RC2.9.jar"
+hash = "ce9b9020d7f36f454954fb89b97d2daa3636e26cc9f1f27e09a19faf8f774920"
 
 [[files]]
 file = "mods/UniLib-1.2.1+1.7.10-forge.jar"
@@ -71793,8 +71793,8 @@ file = "mods/gtnhlib-0.11.54.jar"
 hash = "61340948f200ce52f210380ec00ec763fe867fac10c6342743e04c1688e85039"
 
 [[files]]
-file = "mods/gtnhrates-1.11.0-2.9-daily523.jar"
-hash = "eeab9f34f5fded2a7d2abefddb89e16963f3efc4c5d8b5d49d98f940fd2bb66f"
+file = "mods/gtnhrates-1.12.0-2.9.jar"
+hash = "d67dc2061669150ee6dbf1d5757a15c99c97ec80eac5bf462fd9e284bc47ef3e"
 
 [[files]]
 file = "mods/guidenh-1.3.55.jar"
@@ -71933,8 +71933,8 @@ file = "mods/qz_miner-5.4.2.jar"
 hash = "59935036e29e8edb7156cf8f098a5a9a33033f93c3c7abb080ec1ab38430d89b"
 
 [[files]]
-file = "mods/qz_uilib-4.11.1.jar"
-hash = "36f201479d56b37580357877eb5ba8cb9679265d05cfaafac76589b659c431a1"
+file = "mods/qz_uilib-5.0.0-beta3.jar"
+hash = "0ef073ef83fa942b33003e9ceeb6b94427ab66dd0a43d40a451a861c61695bb3"
 
 [[files]]
 file = "mods/randomboubles-1.1.7.jar"
@@ -71953,8 +71953,8 @@ file = "mods/salisarcana-v2.7.0.jar"
 hash = "d4c0a9216973cb460a0553147b1ebb396113810eae7b64231a89a7f26c993b74"
 
 [[files]]
-file = "mods/sciencenotleisure-dev-290-fde37b9871fd-f0864a001439.jar"
-hash = "9e01f09479d8cc2c116e42a116856341b71ca7e3b13464c5644eedae9deea279"
+file = "mods/sciencenotleisure-dev-290-fde37b9871fd-a82b454dfc79.jar"
+hash = "06bf8cdf4632dd9462c58fa13ab0f6babe572e1ee3d221bdac1297e03417ce70"
 
 [[files]]
 file = "mods/sharewhereiam-2.1.11.jar"
