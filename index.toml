@@ -71021,10 +71021,6 @@ file = "mods/AppleCore-3.3.13.jar"
 hash = "aedbe88524f75fe9ee1126e173999c2167c9dfe80bb26ff99be13fab403f372d"
 
 [[files]]
-file = "mods/ArchitectureCraft-1.12.18.jar"
-hash = "a36c1ac9db58be8ae341e86ce8c569b3170f4a4688f0f1fd6fedbae38c916764"
-
-[[files]]
 file = "mods/ArchitectureCraft-1.12.19.jar"
 hash = "ba4e3d5b19321f1acc3209acde320f4ec0b3a144bd56ec3503199384241e4aa9"
 
@@ -71041,10 +71037,6 @@ file = "mods/Avaritia-1.100.jar"
 hash = "6d69f28a34a4409e1da08a10aa454c5cc154f59b023caab1a7b8206becd2f139"
 
 [[files]]
-file = "mods/Avaritia-1.99.jar"
-hash = "ab92ad6d0a6b49f3fc43b9705cdfd591d9b0e4723112852e7e5352aa1b61316e"
-
-[[files]]
 file = "mods/Avaritiaddons-1.9.6-GTNH.jar"
 hash = "68998d7750513202f36d60d5e270973fef7b9fe5cd6650ca40a6349a1c36efdf"
 
@@ -71059,10 +71051,6 @@ hash = "15ee9eb87fe5f2ba8a2dd7ff246ed8de6bd25bd098278e21123e63a5f67e0fdc"
 [[files]]
 file = "mods/BetterBuildersWands-0.13.12-GTNH.jar"
 hash = "dceb7196b1e1435db92b7c6cc20338095da757f9674a35ff22e46788816f253f"
-
-[[files]]
-file = "mods/BetterQuesting-3.8.89-GTNH.jar"
-hash = "893fbec96a469f5225a9c3673dd8b5965860ebe00fbe0fa20ef0081c15bebbe0"
 
 [[files]]
 file = "mods/BetterQuesting-3.8.92-GTNH.jar"
@@ -71097,16 +71085,8 @@ file = "mods/BloodArsenal-1.5.12.jar"
 hash = "39ada5128e5597d58af55ef9d03b1852de203058e22b6d649c9a4d133881157c"
 
 [[files]]
-file = "mods/BloodMagic-1.9.14.jar"
-hash = "96d074a08ddf58c81f2f88ab5c855f6ed54ce54660bdc4e9f309381ac3efd03c"
-
-[[files]]
 file = "mods/BloodMagic-1.9.16.jar"
 hash = "3a6685b947f2a9f4e0b3d639ed9dc3ae3ca069194dc4637f349d7177760ffbb1"
-
-[[files]]
-file = "mods/Botania-1.13.37-GTNH.jar"
-hash = "30366786a232aed4631b2e9d1c2382e1625fe7661fcae3b01baa81fe96b060d6"
 
 [[files]]
 file = "mods/Botania-1.13.42-GTNH.jar"
@@ -71137,10 +71117,6 @@ file = "mods/CompactKineticGenerators-1.7.10-1.0.jar"
 hash = "9c308c827e0920b89cb3f17965df2cf70cc7c2dc4d99995ffde55ad77f2c0739"
 
 [[files]]
-file = "mods/Computronics-1.9.10-GTNH.jar"
-hash = "bfd4ae5e2739de7402311ecf1432e44f7c0c8124686acd088d7c96babd33f2db"
-
-[[files]]
 file = "mods/Computronics-1.9.13-GTNH.jar"
 hash = "736dd1bbead48fa0c4467098a49fe263b4b63eda698a38698516fc0bbce2fa6f"
 
@@ -71157,10 +71133,6 @@ file = "mods/CraftTweaker-3.4.8.jar"
 hash = "9895f0253e02f49d3870f5d2375227f7d1b782b895d595f74e7dfc7031435cd2"
 
 [[files]]
-file = "mods/Draconic-Evolution-1.5.33-GTNH.jar"
-hash = "5637b84616b71b5fb38e5ec113ee20b5c28db6d83557d73b309e02ab34d5a23c"
-
-[[files]]
 file = "mods/Draconic-Evolution-1.5.35-GTNH.jar"
 hash = "c49e8a8052b0c9735e746e60875cf988d21f8d16fa3edcebae47251280c47417"
 
@@ -71173,16 +71145,8 @@ file = "mods/EMT-1.7.25.jar"
 hash = "0b39b28a125f5c80e234154e1cb79360f0244c8d9e81a9fcb4640c8f0f6eb621"
 
 [[files]]
-file = "mods/EnderIO-2.10.48.jar"
-hash = "ad0a65f1cc359a4bf76e41ca39151d8aaf2735db77f8e9d0dcb5b010337805d5"
-
-[[files]]
 file = "mods/EnderIO-2.10.51.jar"
 hash = "527fafdf9add94ff74f47b9181ccd0cb77a6aa4ff09040b844a7fb91ca367c9b"
-
-[[files]]
-file = "mods/EnderStorage-1.8.7.jar"
-hash = "086d61761a93aead84bb7c37acbe176d0e0a450fd93ab12597c0e05e8ca7ef03"
 
 [[files]]
 file = "mods/EnderStorage-1.8.9.jar"
@@ -71201,24 +71165,12 @@ file = "mods/FloodLights-1.5.6.jar"
 hash = "e228b66c0dc90a614e8f436c686b4670243f2790e62376c5fdb757cb2b7c04d5"
 
 [[files]]
-file = "mods/Forbidden.Magic-0.9.17-GTNH.jar"
-hash = "5abd26dff612190405ac0d60875e0bf1c67796ed1c3c496481d70e89c93353d6"
-
-[[files]]
 file = "mods/Forbidden.Magic-0.9.18-GTNH.jar"
 hash = "b338b51e61666bae71d1c78e5671f7d201a9e2a0c2f3551c64d8fd07008116ee"
 
 [[files]]
-file = "mods/Forestry-4.11.39.jar"
-hash = "f3cacea1f523a5b94bf3f7bcc811c49dd5224d5024ac3d98fb6ac3b26a51547f"
-
-[[files]]
 file = "mods/Forestry-4.11.40.jar"
 hash = "5d2fc33046bdce188f281892c429ac4b1cd3b3833b66cbf013600e0d66c47058"
-
-[[files]]
-file = "mods/ForgeMultipart-1.7.16.jar"
-hash = "1b33a214fb972855b9ba4661aee4b2c137186b5bbe5f2225b39ced4e687d1327"
 
 [[files]]
 file = "mods/ForgeMultipart-1.7.18.jar"
@@ -71245,16 +71197,8 @@ file = "mods/GTTweaker-2.3.4.jar"
 hash = "c65f524ee75ff0b7e483214e9040d9bc32ae54adc64ce739a88b018d73c6f72c"
 
 [[files]]
-file = "mods/Galacticraft-3.4.34-GTNH.jar"
-hash = "d59ce83201ad530cec32092645852477942b838ec21647c16f29f0e331a6a809"
-
-[[files]]
 file = "mods/Galacticraft-3.4.37-GTNH.jar"
 hash = "15058fd52b3527c80b4a8280a499cea0c9226a72946945736c5d4980d9350374"
-
-[[files]]
-file = "mods/GalaxySpace-1.1.143-GTNH.jar"
-hash = "d3bb6e79c1fa022adef4d1629e1188ae6fb07c79b9461de83ea5318326445099"
 
 [[files]]
 file = "mods/GalaxySpace-1.1.144-GTNH.jar"
@@ -71263,10 +71207,6 @@ hash = "bad7e1453c6d1e22e429a0d87c0325f8294f8059ff3dbd48142cb8fe92047b6f"
 [[files]]
 file = "mods/GraviSuite-1.7.10-2.0.3.jar"
 hash = "713dc2248488934fc04d6bd62eb27be374bdc4baf428eeabcb2fd98257496a3b"
-
-[[files]]
-file = "mods/HardcoreEnderExpansion-1.12.28-GTNH.jar"
-hash = "4cf7bf8e87ea39e0476771e7d20e93a378db83ca514d3454e3df3df37116321b"
 
 [[files]]
 file = "mods/HardcoreEnderExpansion-1.12.29-GTNH.jar"
@@ -71285,24 +71225,12 @@ file = "mods/HungerOverhaul-1.7.10-1.0.0.jenkins104.jar"
 hash = "800e55c375575941e7eb6ce1f5c13be518453016171af1ba77a7b607c92641f9"
 
 [[files]]
-file = "mods/IC2NuclearControl-2.7.16.jar"
-hash = "60cd08eb2eaf3da4fe14a6231c8dffea8bc6023f2859515aff647ab1232a4a60"
-
-[[files]]
 file = "mods/IC2NuclearControl-2.7.17.jar"
 hash = "756399c8ce18a155382af4929d1a609aee61cb80f536511ae95fa337222b1d00"
 
 [[files]]
-file = "mods/IguanaTweaksTConstruct-2.7.12.jar"
-hash = "8c22bf5a18046f998f2759fa75ac6840f1ac1c1c3981af44e8eb9577da3f0ed9"
-
-[[files]]
 file = "mods/IguanaTweaksTConstruct-2.7.15.jar"
 hash = "0f2b62dd3dfa348c3ab5392402b324a43ba365fe972d3c7604b1511adc320c79"
-
-[[files]]
-file = "mods/InGameInfoXML-2.9.7.jar"
-hash = "0ff09673ecfaf9fb7ed4fd34cbbf7b0dccbe2c3b8beca810881499a1e76726d3"
 
 [[files]]
 file = "mods/InGameInfoXML-2.9.8.jar"
@@ -71321,10 +71249,6 @@ file = "mods/IronChestMinecarts-1.2.1.jar"
 hash = "5844b2387306981e5997076e869b33376e1673fb9f276a87db279066f1c062a0"
 
 [[files]]
-file = "mods/JABBA-1.5.23.jar"
-hash = "c2bdca9ef6a694c95f4814c6bee3f3b214c9677e4956df58fc765035b72353ec"
-
-[[files]]
 file = "mods/JABBA-1.5.24.jar"
 hash = "0cfb7e5cc9f736a99d720e1cf216e8ea33b8febea2a45646fdf0ada31baa5725"
 
@@ -71341,20 +71265,12 @@ file = "mods/ModTweaker2-0.14.0.jar"
 hash = "35e85c7fcb0c1950ba6909ba01b3c443bc1cb832f24431aed38b0314a575963d"
 
 [[files]]
-file = "mods/MouseTweaks-2.5.3-GTNH.jar"
-hash = "ca00aebdcf268b75e720bd935d9aadc0f5924c433bcec1bbc041edd70086dd94"
-
-[[files]]
 file = "mods/MouseTweaks-2.5.4-GTNH.jar"
 hash = "70aef2ec156a61aaf52ef430165bc4bb0cad27cb279b59542f99844f960df43b"
 
 [[files]]
 file = "mods/MrTJPCore-1.3.7.jar"
 hash = "bda0302e180ac34f41d05a872e07a3bfc161b91ac32a53b664104447a0f94726"
-
-[[files]]
-file = "mods/NEIAddons-1.18.6.jar"
-hash = "59c4ed31a135c34e81c9947d6c45e8cece7bcab6d074424dcf4477182567eb3a"
 
 [[files]]
 file = "mods/NEIAddons-1.18.8.jar"
@@ -71377,10 +71293,6 @@ file = "mods/NodalMechanics-1.3.4-GTNH.jar"
 hash = "462f3cedbcd17a40e41e902f786889894c0f36ba9506c198ad229faf157eb2b6"
 
 [[files]]
-file = "mods/NotEnoughEnergistics-1.7.46.jar"
-hash = "18152a80e04bb20e9bab405535fa822a3659d28a4b8a456d895b779b76c8d140"
-
-[[files]]
 file = "mods/NotEnoughEnergistics-1.7.50.jar"
 hash = "c7b1e2f3180c7e739980ce153ce84120a3b9bf018b87e3b56f740909e74917b5"
 
@@ -71397,20 +71309,12 @@ file = "mods/OpenBlocks-1.12.22-GTNH.jar"
 hash = "bf7dc845b023e72ea6df24b70557cd42d6f3df91c5bc978d2561c711c963cb52"
 
 [[files]]
-file = "mods/OpenComputers-1.12.64-GTNH.jar"
-hash = "f1fba20d2b76b61463dc1356aac1dc80f1054c3e22260b5232849228e9d1d404"
-
-[[files]]
 file = "mods/OpenComputers-1.12.68-GTNH.jar"
 hash = "06ebdccfb5801748a455adfd53b2197d848b48b1711e1f2c22dc4dd5645f7d56"
 
 [[files]]
 file = "mods/OpenGlasses-1.6.9-GTNH.jar"
 hash = "dfaa33b17d2493653fa256476c7127cc1f5f64b83c8ded0ec07b4439362b177a"
-
-[[files]]
-file = "mods/OpenModsLibs-0.10.14.jar"
-hash = "050c5faa4683bee04aa51ac5763f30d61438b4ac01b0ae9b23f0171b4688985d"
 
 [[files]]
 file = "mods/OpenModsLibs-0.10.15.jar"
@@ -71457,10 +71361,6 @@ file = "mods/PlayerAPI-1.5.0.jar"
 hash = "13cec0ea69288c38e3174864439889d7c2da611409d7520fc276929cb74215d6"
 
 [[files]]
-file = "mods/ProjRed-4.12.47-GTNH.jar"
-hash = "642ed242325bf9e5b097ade572162d8fbec387c7a26c5951defdf4a4fd22ee5a"
-
-[[files]]
 file = "mods/ProjRed-4.12.50-GTNH.jar"
 hash = "db2dde71cc9276c62b4c6f131f6155a319633c86419c9c01dca616c3f29dd642"
 
@@ -71469,40 +71369,20 @@ file = "mods/ProjectBlue-1.2.11-GTNH.jar"
 hash = "ebd4de48e4528a25f547bb2fa1603072a7b4af5469b13167cfaa71f62056f5b1"
 
 [[files]]
-file = "mods/RWG-alpha-1.5.2.jar"
-hash = "9be5c54b56cf2a08d507a5568dec1537ca6f5e958a2ce9d39e32207870a6bd6f"
-
-[[files]]
 file = "mods/RWG-alpha-1.5.3.jar"
 hash = "fb5ee6c9927729c7dc82967542205084bd54bc032139502c69967b07268925fd"
-
-[[files]]
-file = "mods/Railcraft-9.17.31.jar"
-hash = "1d995023f06eef199cbb591dbd30df53e114c41b7204ed16448458eba1dcfdcb"
 
 [[files]]
 file = "mods/Railcraft-9.17.36.jar"
 hash = "f1dd8875ddc23dd17e59df27ab9d86d0cd3862d7079bdbdfd4da089e4b255d36"
 
 [[files]]
-file = "mods/RandomThings-2.7.11.jar"
-hash = "b2d197c3e2a1cd82ba58baa983903e07b61dee24cfaccbe7e722602ac7d2feb9"
-
-[[files]]
 file = "mods/RandomThings-2.7.13.jar"
 hash = "0ec3b49ac0b0a0a3cbf8463115f1e3a92188c37d685828978b243d4cbdd465d3"
 
 [[files]]
-file = "mods/RemoteIO-2.7.10.jar"
-hash = "231d77251a3066ebe92f0db5d984110d97864c5f58aac9151e8a0c57bea6574a"
-
-[[files]]
 file = "mods/RemoteIO-2.7.11.jar"
 hash = "96e990587e78cb576098eb9f9938a5ed0d4ed5de3f622f1c661ac5dc897f621f"
-
-[[files]]
-file = "mods/SGCraft-1.4.13-GTNH.jar"
-hash = "9f86436d8ce556f86a37cbf278b95fadbb3a4a5ba187cf9eebe7d80a731ea831"
 
 [[files]]
 file = "mods/SGCraft-1.4.14-GTNH.jar"
@@ -71519,10 +71399,6 @@ hash = "882405ff87fb99c8bc744993d7a57e6626db0bca5f6c2a4923df01947383fb47"
 [[files]]
 file = "mods/SpecialMobs-3.7.10.jar"
 hash = "9097cc21fe5956cdba704edff7b2b3d38a1b72a401b066f419d435ce25a786ad"
-
-[[files]]
-file = "mods/SpecialMobs-3.7.8.jar"
-hash = "df2d13412fb121877b4899e0ab2ec1860f5740e0c9d367511097e87b500a7c73"
 
 [[files]]
 file = "mods/SpiceOfLife-2.2.12-carrot.jar"
@@ -71549,16 +71425,8 @@ file = "mods/SuperTic-1.5.6.jar"
 hash = "414800517724323e1209403d4530868439055392c7b8ac8cd98b300b8ecbd626"
 
 [[files]]
-file = "mods/TConstruct-1.14.118-GTNH.jar"
-hash = "1b83fee5a6a2f04b5f321bae26f3d3b352367e2e22621a070c19743a6163eaf9"
-
-[[files]]
 file = "mods/TConstruct-1.14.123-GTNH.jar"
 hash = "7e9ecb65757a594b2dc320ec5921d37392c8dabf490cd83bd1720f45b717f1c2"
-
-[[files]]
-file = "mods/TGregworks-1.7.10-GTNH-1.0.33.jar"
-hash = "93ffca6f64fc394383a8b73838eb416bc0c4b97c8b4e89000afbcd89a2a5e807"
 
 [[files]]
 file = "mods/TGregworks-1.7.10-GTNH-1.0.34.jar"
@@ -71589,10 +71457,6 @@ file = "mods/ThaumcraftResearchTweaks-1.4.1.jar"
 hash = "ddd589af29d228e5b141123d4540c3cebbe3712a61a1258e52a9d71a39dad7ff"
 
 [[files]]
-file = "mods/Thaumic-Based-1.9.19.jar"
-hash = "efbf1a36bd7c54fdef9d301dcae0c9500c2f778f9291456a92b1090b866e1cc1"
-
-[[files]]
 file = "mods/Thaumic-Based-1.9.22.jar"
 hash = "ccf7682dcbbd57723c4f71eaefdd816178380eeb2917aaa5caed62b0acfa01ce"
 
@@ -71607,10 +71471,6 @@ hash = "1cb75af1988ee1329791d8dfc68fce7a3b666411e79b6400a107efa754a15656"
 [[files]]
 file = "mods/ThaumicMachina-0.2.6-GTNH.jar"
 hash = "7028c43245d62f1304067f7d2704c005696cf0fc1e0b50a72ed26619adaa0efe"
-
-[[files]]
-file = "mods/ThaumicTinkerer-2.12.33.jar"
-hash = "738053f4703e81ea7f20b867346a434f21b8d63cc32bd15394634a03b1016caa"
 
 [[files]]
 file = "mods/ThaumicTinkerer-2.12.34.jar"
@@ -71629,10 +71489,6 @@ file = "mods/Translocator-1.4.5.jar"
 hash = "4a79a47b0fe2b1faca406e3ad7cd3986f4411712d32356ab2e57f3e1622bb637"
 
 [[files]]
-file = "mods/TwilightForest-2.7.44.jar"
-hash = "36e0f4b298795b9c1cc7d093d6cb51a6845caf31dd6f7d5cd3f4a5cbd318ed27"
-
-[[files]]
 file = "mods/TwilightForest-2.7.45.jar"
 hash = "84eb70c61c8e73e2dc7c5e5a332789f379ed1b31bf70b51f25146affb182a818"
 
@@ -71647,10 +71503,6 @@ hash = "4270b8afe1a78f1e62542d48344ed3398e55c348de89837af568a4d25a2e0d22"
 [[files]]
 file = "mods/Universal-Singularities-8.15.4.jar"
 hash = "d2b9dec47c2f37cfb4b8d88ce7b9cb82a51331e39b8bef4ac2caba8ac2ee86bc"
-
-[[files]]
-file = "mods/VillageNames-4.5.19-GTNH.jar"
-hash = "3842e16a733f0596e970b0958012367640d8ee7cc3e4e35e6489237f08ff9d7a"
 
 [[files]]
 file = "mods/VillageNames-4.5.21-GTNH.jar"
@@ -71681,16 +71533,8 @@ file = "mods/WarpTheory-1.5.8-GTNH.jar"
 hash = "e8c11aacce22c2813d44cd2ea755f9013c5e81660169e4f48028b44243f6bcca"
 
 [[files]]
-file = "mods/Wawla-1.3.3-GTNH.jar"
-hash = "788076ebf369549640063229b66f4ec3980c0fecc1f7ca0294e8672f28889bd6"
-
-[[files]]
 file = "mods/Wawla-1.3.4-GTNH.jar"
 hash = "6bf5f0bd285038ef85102bc07301e0eb26a346d58d99678ba04eda833f8ee9f1"
-
-[[files]]
-file = "mods/WirelessCraftingTerminal-1.12.16.jar"
-hash = "4bbce873a01e867c91e9b84e2f32e00852a6e50d37e707fdebda1e835017cf56"
 
 [[files]]
 file = "mods/WirelessCraftingTerminal-1.12.17.jar"
@@ -71699,10 +71543,6 @@ hash = "334216e53507d8a02742f710acf896be664d593e8093f797d293ba737f6f355f"
 [[files]]
 file = "mods/WitcheryExtras-1.4.20.jar"
 hash = "7e2b074aa4c7bdb65f0d5cec70610fd4dcf604ed11a2e623901ae05c02a07a97"
-
-[[files]]
-file = "mods/WitchingGadgets-1.8.51-GTNH.jar"
-hash = "45f3de856bf31f8189ed42ede5f995b190a06e1ac3cf005b1113605d124c6bc7"
 
 [[files]]
 file = "mods/WitchingGadgets-1.8.53-GTNH.jar"
@@ -71717,21 +71557,8 @@ file = "mods/Ztones-1.7.10-2.2.2.jar"
 hash = "6420fda33493eaadf8a695333fbe5f016935c91d68713c918941a1f7856a0e27"
 
 [[files]]
-file = "mods/advancedsolarpanels.pw.toml"
-hash = "0f641ef3b651a5b5a9efe39ed2c311ffea8687d763e5be5baf47bd6757995215"
-metafile = true
-
-[[files]]
-file = "mods/adventurebackpack-1.4.26-GTNH.jar"
-hash = "6a93c6bff8cfc589be656d9f68925db7483be4d922a1b3e35922c984cc4d7b4c"
-
-[[files]]
 file = "mods/adventurebackpack-1.4.28-GTNH.jar"
 hash = "5dde1580df995ec21ebab9e8ccaead5ae4001713e6de89050b1bdbdb7132cb0d"
-
-[[files]]
-file = "mods/ae2fc-1.5.113-gtnh.jar"
-hash = "68cf32a1cc9d08071387d08f872dc5defd670713f955bbf2935ff57301f945f4"
 
 [[files]]
 file = "mods/ae2fc-1.5.116-gtnh.jar"
@@ -71746,31 +71573,12 @@ file = "mods/alchgrate-1.3.2-GTNH.jar"
 hash = "f6b3de380f5f99eb5245b63f9e949adff3a061596a331cd447656b0aed26066a"
 
 [[files]]
-file = "mods/amazing-trophies.pw.toml"
-hash = "b8106ce0d45364f0c4cea9189d7c2216ef5780ee31ec52b2be033b45a635cc74"
-metafile = true
-
-[[files]]
 file = "mods/amazingtrophies-1.4.10.jar"
 hash = "6938276f9ba7d3c655e14de307b3ce985673c588626ea308c9f3852fe7aa6a6a"
 
 [[files]]
 file = "mods/angelica-2.2.43.jar"
 hash = "d72ea5bea07943729cf38e4e6a72c4d09987f96bb7ad4e94f42b07f9397a8958"
-
-[[files]]
-file = "mods/angelica.pw.toml"
-hash = "b0d04cfb59b4a4c02a0427881830e1df571fcdfe462192afb0f3db223e2e93db"
-metafile = true
-
-[[files]]
-file = "mods/applecore-unofficial.pw.toml"
-hash = "5831e29cfb18883bf15ad3747ad93a59873fdb3288cbd899265d89cd9d23965c"
-metafile = true
-
-[[files]]
-file = "mods/appliedenergistics2-rv3-beta-1080-GTNH.jar"
-hash = "7bcada90f561ff6c17e577b0c87ad1a1b0a7cf98fc8e934c18a67bdec11fd89f"
 
 [[files]]
 file = "mods/appliedenergistics2-rv3-beta-1095-GTNH.jar"
@@ -71781,21 +71589,8 @@ file = "mods/archaicfix-0.8.2.jar"
 hash = "cf51b3af5b948ec963c8dbfb26d25340bbb66c71e2c857984183de718e3e2f43"
 
 [[files]]
-file = "mods/archaicfix.pw.toml"
-hash = "08c00aafcfc48e57eb8d343cff939d067dc409395f98ed770329c11d78ec52a7"
-metafile = true
-
-[[files]]
-file = "mods/aspectrecipeindex-1.1.5.jar"
-hash = "cd9d6559016334b1f8c72bc4a54837d589c1c7ff6b16d7eabc3414efc4ca4c83"
-
-[[files]]
 file = "mods/aspectrecipeindex-1.1.6.jar"
 hash = "283374a463195fdb2a1aa4ce8989fc89976e7b1702121f3f9f86714c8110d055"
-
-[[files]]
-file = "mods/backhand-1.8.16.jar"
-hash = "a3f311ea794c2816a58bdd488f6698defcca7e4c1ccfeaa6cb45a221561dcfa6"
 
 [[files]]
 file = "mods/backhand-1.8.18.jar"
@@ -71810,21 +71605,8 @@ file = "mods/battlegear2-1.6.8-backhand.jar"
 hash = "2a05bf562fa84c82e7d03ae642cbb4bb488edc60a1bd3e65717d44f222b09908"
 
 [[files]]
-file = "mods/baubles-expanded-gtnh.pw.toml"
-hash = "70ea685c80da480cbafdd40a72a7011139b39519171af43ad9f51f248af5b10c"
-metafile = true
-
-[[files]]
-file = "mods/bdlib-1.11.0-GTNH.jar"
-hash = "130e6e88b8a3340a7518eef3ba313877b7a08149693980fa10c5d8b4f9da3095"
-
-[[files]]
 file = "mods/bdlib-1.11.1-GTNH.jar"
 hash = "67d5a01ad7595b4e8ccff7d264f0ae1b53a0902181f097af022e5c7d0e609c8c"
-
-[[files]]
-file = "mods/beebetteratbees-0.4.7-GTNH.jar"
-hash = "24db6587dc873e9789904ed2812073f321c39b7da984207eef57b57e83b04133"
 
 [[files]]
 file = "mods/beebetteratbees-0.4.8-GTNH.jar"
@@ -71835,10 +71617,6 @@ file = "mods/bettercrashes-1.4.7-GTNH.jar"
 hash = "491db116bcf581f381cc544deb77aeb9d1fccafe29cd4397eaff139440c5b354"
 
 [[files]]
-file = "mods/betterloadingscreen-1.7.18-GTNH.jar"
-hash = "227d168c5e8f5dc410668a31fb5fe0729f8e61d73dd769182ef848093db6aff5"
-
-[[files]]
 file = "mods/betterloadingscreen-1.7.19-GTNH.jar"
 hash = "9b780d3072f75846a9cfbf92c8ec1e83e3046414287321f59bf40d2953070218"
 
@@ -71847,49 +71625,12 @@ file = "mods/betterp2p-1.4.8.jar"
 hash = "052c4799312154abf0b53762ce1510cc9e6e8a1c0991c588e906cf7fe6208388"
 
 [[files]]
-file = "mods/bibliocraft-bibliowoods-biomes-oplenty-edition.pw.toml"
-hash = "52aa3336f337795bbb73c840a0b98f68e0ba22e461a63616d9928422e1a22ea2"
-metafile = true
-
-[[files]]
-file = "mods/bibliocraft-bibliowoods-forestry-edition.pw.toml"
-hash = "9ca438431d23d623b3e4fff7df479a879d1bc8451f49715a4d5262d076ee8fbf"
-metafile = true
-
-[[files]]
-file = "mods/bibliocraft-bibliowoods-natura-edition.pw.toml"
-hash = "3b5e0d8b873427bbd087228100274acc931530b791eb6765b618ac821d10f7a7"
-metafile = true
-
-[[files]]
-file = "mods/bibliocraft.pw.toml"
-hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
-metafile = true
-
-[[files]]
-file = "mods/binnie-mods-2.6.48.jar"
-hash = "85b540b83c0c65eb7227ff4757d578e98ee34cb2ed18a8ceb5c487f1318e3cf4"
-
-[[files]]
 file = "mods/binnie-mods-2.6.51.jar"
 hash = "724cca52f9de0f7dadec321f7716fd45b358d2be9dd698d87decb1a632d8007e"
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
-metafile = true
-
-[[files]]
-file = "mods/blockrenderer6343-1.4.24.jar"
-hash = "69f968af3015ab3ea386f8e61205b3d1918ada3bc94e0fbd7414849dc481af10"
-
-[[files]]
 file = "mods/blockrenderer6343-1.4.25.jar"
 hash = "8608bddf642a8e92ce611ad206464c03c197be3d31c20aa924593f9f9f2315b9"
-
-[[files]]
-file = "mods/bogosorter-1.3.54-GTNH.jar"
-hash = "b043c875df9fcd38349e9d26f73840e1dfea9e1c4a1254e060c0d51fe05a139b"
 
 [[files]]
 file = "mods/bogosorter-1.3.55-GTNH.jar"
@@ -71898,10 +71639,6 @@ hash = "4e1ba13eec8083ae96d41b3ffe4934be840ce51807774732223110dc48919a1e"
 [[files]]
 file = "mods/bugtorch-1.3.1.jar"
 hash = "90f0f47b165ef8966338fd3699bfb310d307534d0662d15f5f315f59e73b8d47"
-
-[[files]]
-file = "mods/buildcraft-7.1.64.jar"
-hash = "be50057c491745f0da3531483f1c5379576ff65cdce861c9ae7d07a747aa4be8"
 
 [[files]]
 file = "mods/buildcraft-7.1.65.jar"
@@ -71928,31 +71665,12 @@ file = "mods/chromatictooltips-1.0.36-GTNH.jar"
 hash = "d68964d83251e805bb9a19baba43907687ba16e75dc0d2324f76d97f5a562b48"
 
 [[files]]
-file = "mods/chromatictooltipscompat-1.0.38-GTNH.jar"
-hash = "873eed69cf8731f5e8ee9742584bbddc81c19f6ec15ccdf9cd6d747749be20bc"
-
-[[files]]
 file = "mods/chromatictooltipscompat-1.0.40-GTNH.jar"
 hash = "cc66d33b1662a6d4f5f1035cc3620fe79fe622a669df0abc79fbd87a85e82a37"
 
 [[files]]
 file = "mods/chunkapi-mc1.7.10-0.8.4.jar"
 hash = "054e695ca938f20930fa59a97441df4a192ee10cd2cda77487c51a98ce06f00e"
-
-[[files]]
-file = "mods/chunkapi.pw.toml"
-hash = "e2a6bef7d7911a2ece1a50cd6821aa4ce6cd58c34d61b949e6dfa201c9fc6ae3"
-metafile = true
-
-[[files]]
-file = "mods/codechickencore-unofficial.pw.toml"
-hash = "76fd45f35204337fbcc950145c0ad56405f14c562dbfba55af076d746db57aab"
-metafile = true
-
-[[files]]
-file = "mods/cofh-core.pw.toml"
-hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
-metafile = true
 
 [[files]]
 file = "mods/controlling-2.1.10.jar"
@@ -71971,15 +71689,6 @@ file = "mods/craftingtweaks-1.0.3.jar"
 hash = "36425fb80523d3f9ff61c686638476de7257e68c4cc2f3ccbec5f7a16aa4346a"
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "9c759f9f9a9ac67a02617646fd5baa5147710444c123478f842186dc626b2e27"
-metafile = true
-
-[[files]]
-file = "mods/cropsnh-2.0.134.jar"
-hash = "4006e8e388cc7018a3e9566a5cab805e5fcbfd664e8601e792ba4c10f20778b7"
-
-[[files]]
 file = "mods/cropsnh-2.0.140.jar"
 hash = "f3cfd564b438b9669be927f27bae93a8fbe77797bfd89886d6d9683c451d2e9e"
 
@@ -71992,15 +71701,6 @@ file = "mods/darkerer-1.1.0.jar"
 hash = "60d82cf4e4ae57c4b272a8acbfe984fb80a440a1fc72653f03dfbd8f546c8618"
 
 [[files]]
-file = "mods/darkerer.pw.toml"
-hash = "661b94c922b2b268e031fd6f4f112bfaa12e2219afc83a2df8c057a5c31fd72d"
-metafile = true
-
-[[files]]
-file = "mods/defaultkeys-1.3.2.jar"
-hash = "e7009545ee4d275355a88dd8b1a0c9871213c281a9d87d509f22b3eb23242dd7"
-
-[[files]]
 file = "mods/defaultkeys-1.3.4.jar"
 hash = "16e29b33b9fdeebb63b3d2e09a2d4a3f2f7322f93475a7979b50cb5ddc4eddfe"
 
@@ -72009,21 +71709,8 @@ file = "mods/defaultserverlist-1.7.4.jar"
 hash = "e5006d437b784b4c8308f82a88601bddae44ddf29db23988f31cdc327a72c4f9"
 
 [[files]]
-file = "mods/defaultserverlist.pw.toml"
-hash = "58ff718b0570b659d2c60b6a020c0e834ccd4472d8af40af9b3b56d4fa20ac83"
-metafile = true
-
-[[files]]
-file = "mods/defaultworldgenerator-0.4.0.jar"
-hash = "b0bda6e216766a8c992852051fc82e872de0b0514e64441944eb69ff33f2e53f"
-
-[[files]]
 file = "mods/defaultworldgenerator-0.5.0.jar"
 hash = "be52b3d3d6aaee84685ac01e650a7b7a7ba7caa45a9a03c314dd056198c4b8c0"
-
-[[files]]
-file = "mods/duradisplay-1.4.6.jar"
-hash = "3da716c3a88e1a18fd9d128cecbde091b56381c310776b9050c685e7e24d98ed"
 
 [[files]]
 file = "mods/duradisplay-1.4.7.jar"
@@ -72038,11 +71725,6 @@ file = "mods/endlessids-mc1.7.10-1.7.4.jar"
 hash = "9be2b3ae458a72f2cdeb3fb30b77d8528a1dcd64ef08fc69720b79335e5ce0d7"
 
 [[files]]
-file = "mods/endlessids.pw.toml"
-hash = "b6900fd39c70a016763ed02cd93be34d9a953a455c9442d80a0133a7f5a9d532"
-metafile = true
-
-[[files]]
 file = "mods/esm-legacy-1.7.10-1.1.1.jar"
 hash = "065f21b2b70cc705c49beb4bc45a9ba2230481906e12a37f93727a351495a2b5"
 
@@ -72051,26 +71733,12 @@ file = "mods/eternalsingularity-1.4.3.jar"
 hash = "9c14074b0749ecddab62e2b16921de23360149e3bda9fb4fbf870efc3b5fd4a9"
 
 [[files]]
-file = "mods/etfuturum-2.6.60-GTNH.jar"
-hash = "23c324e58ce7c002a6a79c4f5f8c51d3facddc0d1696e19c8ef76b93d7e88428"
-
-[[files]]
 file = "mods/etfuturum-2.6.65-GTNH.jar"
 hash = "dc1e1b813cdf783f9fc94216bb46fe007877c0270d52ea71f29ce0e0c86067b5"
 
 [[files]]
-file = "mods/extra-utilities.pw.toml"
-hash = "39b88923de98b9746b389a2ddbf728a4448b5e5b6ccce8b23d926096bd115627"
-metafile = true
-
-[[files]]
 file = "mods/extrautilities-1.2.12.jar"
 hash = "a1941ee4d4b965c4d2ddc6ec0e0b1eb3f3ff8c8b492a18a25b5fcf27c67ba58b"
-
-[[files]]
-file = "mods/extreme-sound-muffler-legacy.pw.toml"
-hash = "06a0937a775cff0fa4a9438be22590bae7aaa93108fa58d90f58891c05da4774"
-metafile = true
 
 [[files]]
 file = "mods/ezstorage-1.8.2.jar"
@@ -72081,16 +71749,8 @@ file = "mods/falsepatternlib-mc1.7.10-1.12.2.jar"
 hash = "bc92d152b2036324b98df0f4510b76b94826b57610f96177e74387b3f399cf39"
 
 [[files]]
-file = "mods/fether-2.0.7.jar"
-hash = "77c607f60105e8e5b933e19661a95922bede3d854c96f3529d84981b58f8ad4b"
-
-[[files]]
 file = "mods/fether-2.0.9.jar"
 hash = "554492ba0221f465f5b97411b2953ed508294b4125d6a727e5465418d89c3084"
-
-[[files]]
-file = "mods/findit-1.4.7.jar"
-hash = "e1f4352e7667285482167ad19a0dc9247b7f2ee2bc7eb4a312512954f40b9021"
 
 [[files]]
 file = "mods/findit-1.4.8.jar"
@@ -72099,11 +71759,6 @@ hash = "a0b9fad4aed1617a76c553e7a2fcbb0aa2cd4f2ea1c129e8fa97e76aafe6b220"
 [[files]]
 file = "mods/forgelin-2.0.3-GTNH.jar"
 hash = "cba9b27b6c6277f60c44e2bf0987bbcaf43f4191fab8b346401ddcd37d6d987a"
-
-[[files]]
-file = "mods/fplib.pw.toml"
-hash = "83f8abe142f9ee6f03e5f7a3e2de9ff18da4a80ce63edaae38a178937cd322d3"
-metafile = true
 
 [[files]]
 file = "mods/freecam-gtnh-1.0.12.jar"
@@ -72126,20 +71781,6 @@ file = "mods/gregtech-5.09.54.265.jar"
 hash = "b969e11625a0298416a75b6e39703da795233edb71cb66f25fb9bbf654d75528"
 
 [[files]]
-file = "mods/gretech-5-unofficial-gtnh.pw.toml"
-hash = "888b42bc7d69324b558d338c5ce7faf4fd0c3fdfca05dcac706b0dbce453dd3a"
-metafile = true
-
-[[files]]
-file = "mods/gt-new-horizons-core-mod.pw.toml"
-hash = "4f76cfa5546e654177eb4b9cd66356d98d1957ed4208f8c03cef2a55521999c4"
-metafile = true
-
-[[files]]
-file = "mods/gtnhcredits-1.3.3.jar"
-hash = "fd1d5b44eda8879b737e2b6773f7fbe0359a51b7993725c640a9720577530639"
-
-[[files]]
 file = "mods/gtnhcredits-1.4.0.jar"
 hash = "ce6bbd0d372c6810ae6d450edf91dfa6e21333de8f4ece4cfd1bef231be1598a"
 
@@ -72152,22 +71793,8 @@ file = "mods/gtnhlib-0.11.54.jar"
 hash = "61340948f200ce52f210380ec00ec763fe867fac10c6342743e04c1688e85039"
 
 [[files]]
-file = "mods/gtnhlib.pw.toml"
-hash = "a9b0b37bc89cd7c88544b26a22e15d2f12a1b2443d3cadf5239022758a5ed963"
-metafile = true
-
-[[files]]
 file = "mods/gtnhrates-1.11.0-2.9-daily523.jar"
 hash = "eeab9f34f5fded2a7d2abefddb89e16963f3efc4c5d8b5d49d98f940fd2bb66f"
-
-[[files]]
-file = "mods/gtnhs-forgelin.pw.toml"
-hash = "ff9f262f5e070bb309f28df839b0fe9dae0072ddd77bb668faf20f179e0fb84e"
-metafile = true
-
-[[files]]
-file = "mods/guidenh-1.3.41.jar"
-hash = "14476feca7bdbf15813cc7308fd138db0eab6957f8b1e595f9e8930a243c727c"
 
 [[files]]
 file = "mods/guidenh-1.3.55.jar"
@@ -72178,35 +71805,12 @@ file = "mods/harvestcraft-1.3.15-GTNH.jar"
 hash = "c5f5c10bca3448c65749b7bd5adb9fa803d40cabc4e07fd3a401a01eff3ac732"
 
 [[files]]
-file = "mods/healer.pw.toml"
-hash = "c8a188b12912cd18ee68c3d9b343e1c96f36e10dccee8ae34dae5b244326a7b6"
-metafile = true
-
-[[files]]
 file = "mods/hodgepodge-2.7.221.jar"
 hash = "9b0bfb7e84a66387319952d76e6f114d6218a988e04d303965c31efb2165e824"
 
 [[files]]
-file = "mods/hodgepodge.pw.toml"
-hash = "114a91f0f46a0d1ced738fa75a02a797075aa4849051f4ca84f6d0785ff205a4"
-metafile = true
-
-[[files]]
-file = "mods/holoinventory-2.5.17-GTNH.jar"
-hash = "d5c37a1caf311a3d7b586f65c52e38011f596c28a39a9e2502ff23451078cae0"
-
-[[files]]
 file = "mods/holoinventory-2.5.18-GTNH.jar"
 hash = "57431e7539279fb087cc375397a500b37ebd56196543062b76ae068f7b1402b2"
-
-[[files]]
-file = "mods/hunger-overhaul.pw.toml"
-hash = "d5aca198492e7b30587f2aba3807f9c0645813271979ec075238aa1ab554b00c"
-metafile = true
-
-[[files]]
-file = "mods/hydroenergy-1.4.25.jar"
-hash = "1cfc5166bec68bd49497794516de14f15e633b73e2455086df74e9a0da7fcf8e"
 
 [[files]]
 file = "mods/hydroenergy-1.4.26.jar"
@@ -72217,18 +71821,8 @@ file = "mods/ifu-1.12.4.jar"
 hash = "1c36cb51575c6f996aab862e45eacc003f0f7d3a6c84159f82a6affaa2b61a30"
 
 [[files]]
-file = "mods/industrial-craft.pw.toml"
-hash = "36eaa1e528a80689fe868f86c4333b7d267fb85c3d429696f0c3f9a6fb90b9b6"
-metafile = true
-
-[[files]]
 file = "mods/industrialcraft-2-2.2.828-experimental.jar"
 hash = "de1d4597972be036eccd1c3b37e9980c3c9d9cdb92f52df2bf470971873893f6"
-
-[[files]]
-file = "mods/iron-chest-unofficial.pw.toml"
-hash = "55964719107f4b13ece63a405bfbb20167972a7664d46d3c965c543f163f7482"
-metafile = true
 
 [[files]]
 file = "mods/irontankminecarts-1.0.12.jar"
@@ -72243,30 +71837,12 @@ file = "mods/jarjar-0.3.7-beta.jar"
 hash = "2a226462baf75af8c2af33a836f73dc7300172f52dad27d3cd13a18122c7e677"
 
 [[files]]
-file = "mods/jarjar.pw.toml"
-hash = "ac4bfcc04da98327ea1d3141e01105749790ef4672ef679fc19aaaa6f224dfff"
-metafile = true
-
-[[files]]
 file = "mods/journeymap-1.7.10-5.2.23-fairplay.jar"
 hash = "70ac2f6e5784958e49dc332b974e3d2896c35535400d05011d609d2ad639e936"
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "4036a6abb13c49c73a67ac9589502675e24291cbddb7ced2123687d5114ba588"
-metafile = true
-
-[[files]]
-file = "mods/littletiles-1.6.59.jar"
-hash = "e1b53e6cd2bb64ed0d3799943ce0da1ddad8556501cd8d316fcc34b0b4841f1d"
-
-[[files]]
 file = "mods/littletiles-1.6.63.jar"
 hash = "01ffac1947bf38cf16094d9258e60c64401f494382e930bf0e688d456c30bf3d"
-
-[[files]]
-file = "mods/logisticspipes-1.5.36-GTNH.jar"
-hash = "abf37605e1b89742c7bfdd3ce8aeda4f56556bff3edc67c333a66f580cd26d9e"
 
 [[files]]
 file = "mods/logisticspipes-1.5.39-GTNH.jar"
@@ -72281,33 +71857,16 @@ file = "mods/lwjgl3ify-3.0.42.jar"
 hash = "63ee6de96b9d109edc38114058d8926155e012fc74d14cbf6e3ef2578af266c4"
 
 [[files]]
-file = "mods/magicbees-2.10.12-GTNH.jar"
-hash = "6da93fbe224dd30ec0cdb37478ff6eea711ef2908ee8b6466dc2f8c6547257ca"
-
-[[files]]
 file = "mods/magicbees-2.10.13-GTNH.jar"
 hash = "0f16828ace8a1343c4518854b8d481db2f31895e7f3859f8dbb0c193529da00a"
-
-[[files]]
-file = "mods/malisisdoors-1.19.11-GTNH.jar"
-hash = "af3336e1ddeed28dc64aeeca49c23ded3214e14da8f02705b4c4ac177e66a357"
 
 [[files]]
 file = "mods/malisisdoors-1.19.13-GTNH.jar"
 hash = "49ee04dbfe9e124640bbc4ddafc3a75c35dd66f72e06f59d193cbde13051375b"
 
 [[files]]
-file = "mods/matter-manipulator-0.1.61-GTNH.jar"
-hash = "0929420899ff794d0945845f98e5f23778892cfaf41b81cde9689897c0bfbff4"
-
-[[files]]
 file = "mods/matter-manipulator-0.1.75-GTNH.jar"
 hash = "fa29b3a6fa4204ca3c35ecdce644e48bc5e912a453bcb4c87ffe33656f1d58d8"
-
-[[files]]
-file = "mods/mobs-info.pw.toml"
-hash = "104f7da95151320388b851bf8652048a95b1ac54e9f2c137b105ab0297bc8ba0"
-metafile = true
 
 [[files]]
 file = "mods/mobsinfo-0.6.2.jar"
@@ -72318,18 +71877,8 @@ file = "mods/modernmarkings-0.3.13-1.7.10.jar"
 hash = "b40ed4b95b143d28b64d895b54dd89adec418af5f599b2787ec6acac9e7d0e28"
 
 [[files]]
-file = "mods/modernmarkings.pw.toml"
-hash = "03f8fa99d8f7d1a02038a34d40664b4905f2591cb98402c8f68efa08ca1596a8"
-metafile = true
-
-[[files]]
 file = "mods/modularui-1.3.4.jar"
 hash = "9221b07c9b09725fc4e935cf63e8116751667fe9c0e7a98bd523a6411141b33f"
-
-[[files]]
-file = "mods/modularui.pw.toml"
-hash = "a42b847850d5d786261906f232659a613ab8f2931e4ee19ebeb71e219021e3c8"
-metafile = true
 
 [[files]]
 file = "mods/modularui2-2.3.94-1.7.10.jar"
@@ -72344,22 +71893,12 @@ file = "mods/navigator-1.1.10.jar"
 hash = "fab10ecae96449a75d3049cdd8d12cbf1fb7883763d7b29bdc30e40590227543"
 
 [[files]]
-file = "mods/navigator.pw.toml"
-hash = "f83120d141993b7ecb617c4d6f778408ef06de42c6e30af2d2a77fa43fafc6e2"
-metafile = true
-
-[[files]]
 file = "mods/netherportalfix-1.4.0.jar"
 hash = "406ebffcc216a9cde9f503d411239c79ad672a1d634ec32ec7f696aa7405c6b4"
 
 [[files]]
 file = "mods/nohotbarneeded-0.0.6.jar"
 hash = "dc7a050014a7358f1f0950776eb28070b835005970395f2b1eeba37e4891c967"
-
-[[files]]
-file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "2500cb2b9532f63d0d016a74f306cea567a0080bc6a15b3d34ab9a4c83c8b5b4"
-metafile = true
 
 [[files]]
 file = "mods/nutrition-1.0.1.jar"
@@ -72380,11 +71919,6 @@ hash = "7c4617caccbc3ccff63ae6cffbce7e7a9129be38b31db3111847b00d0988755f"
 [[files]]
 file = "mods/overloadedarmorbar-1.1.1.jar"
 hash = "5a36c261c4149d3079de7e738c7930f1d0081ae87057cab90ae5c19ba49be297"
-
-[[files]]
-file = "mods/personal-space.pw.toml"
-hash = "9dd235ee1317a84510e6f927f005d9d3c932a217cd7d582d5fd33a1108a59485"
-metafile = true
 
 [[files]]
 file = "mods/personalspace-1.0.41.jar"
@@ -72415,11 +71949,6 @@ file = "mods/rwg2-2.0.6.jar"
 hash = "19cc1e21238cf28253225963a24980519c747a0663a61ae8ae489a19c86e178b"
 
 [[files]]
-file = "mods/salis-arcana.pw.toml"
-hash = "b5f17040b6f60899d1d749ce4c67d7082b9f514d46acc54e5acb7672e9b579ed"
-metafile = true
-
-[[files]]
 file = "mods/salisarcana-v2.7.0.jar"
 hash = "d4c0a9216973cb460a0553147b1ebb396113810eae7b64231a89a7f26c993b74"
 
@@ -72428,17 +71957,8 @@ file = "mods/sciencenotleisure-dev-290-fde37b9871fd-f0864a001439.jar"
 hash = "9e01f09479d8cc2c116e42a116856341b71ca7e3b13464c5644eedae9deea279"
 
 [[files]]
-file = "mods/serverutilities-gtnh.pw.toml"
-hash = "a9c9a6ae8ccea713e1f95545529c09e1cc571a17b460e3df635357a9aca20c87"
-metafile = true
-
-[[files]]
 file = "mods/sharewhereiam-2.1.11.jar"
 hash = "6c5cfb3bcc87e64a6a38d7fd1458c42def6df69f545b0fe1d4f9adc0005dc0ee"
-
-[[files]]
-file = "mods/simpleskinbackport-1.0.3-GTNH.jar"
-hash = "e98d9bcd6954f0ca8cf916e0c3e18513ef57380770cffbcf130eed44861ccc37"
 
 [[files]]
 file = "mods/simpleskinbackport-1.0.5-GTNH.jar"
@@ -72449,22 +71969,8 @@ file = "mods/sleepingbag-0.3.1.jar"
 hash = "ae6ac38c4e2bd5d28b64a19b58f6681e477f69492d32231aa0fc12496d2685ae"
 
 [[files]]
-file = "mods/spice-of-life-carrot-edition-unofficial.pw.toml"
-hash = "44c9ed1e8d13441b51a1ca2c1f22ee180989a64f2712a694f9084c5a072cbe1b"
-metafile = true
-
-[[files]]
-file = "mods/storage-drawers-unofficial.pw.toml"
-hash = "8092774fe530438303feb3be5514dc58f232c0fa886d66727cfa0c21434fe28e"
-metafile = true
-
-[[files]]
 file = "mods/structurecompat-0.7.5.jar"
 hash = "667c6e0ef5a498606045005a449aee8224419285f039e963579bddcfa07b5758"
-
-[[files]]
-file = "mods/structurelib-1.4.45.jar"
-hash = "46228e9e4dd652a0566ad04cff22465b4d29fa3f1d1f4f089026738779f6b84e"
 
 [[files]]
 file = "mods/structurelib-1.4.47.jar"
@@ -72475,31 +71981,12 @@ file = "mods/supersolarpanel-1.1.5.jar"
 hash = "bd33fbdaa3f467838dfa996aa5bb382f46d045e5558fbe09976b614e56f0789b"
 
 [[files]]
-file = "mods/tc4tweaks.pw.toml"
-hash = "1ee6cc8ad424ab9c29a734bc6bb77d05bfa24f87715e586496b38b11ed11d03f"
-metafile = true
-
-[[files]]
 file = "mods/tcnodetracker-1.4.6.jar"
 hash = "4cfc64856bdceee954dcb43d87d6bd1603f17342ba95b6357fd28234e95c8156"
 
 [[files]]
-file = "mods/thaumcraft.pw.toml"
-hash = "f0b23db33db035ffb866e3f09a39dc7019a0de90fe32069bbc48df2ad9dc1a68"
-metafile = true
-
-[[files]]
-file = "mods/thaumic-horizons.pw.toml"
-hash = "dc26a2b73e5fd768c63d46f3fa75ac784b7d44fde8eef39500b6cb39020956db"
-metafile = true
-
-[[files]]
 file = "mods/thaumicboots-1.5.13.jar"
 hash = "753a9589b128c86fcd24bccfe13f4fc83d25e2efbfc832031e948d8bcac6206e"
-
-[[files]]
-file = "mods/thaumicenergistics-1.7.64-GTNH.jar"
-hash = "6787fed73f4f6b92d95719d0fb7ccb5e3bdd0a41c78a713b7d05e5ef6ac0c715"
 
 [[files]]
 file = "mods/thaumicenergistics-1.7.68-GTNH.jar"
@@ -72514,43 +72001,16 @@ file = "mods/tinkersdefense-1.3.4.jar"
 hash = "76a01ea8b0d9e44cb2dd9551a0633efa8930e046611ae388a1f5fb568dd1015a"
 
 [[files]]
-file = "mods/torohealth-1.2.3.jar"
-hash = "dca4448b78b5f71a4bf95a8dcdb96921c604abd012166f0822ce934e29701652"
-
-[[files]]
 file = "mods/torohealth-1.2.4.jar"
 hash = "9701dd64621d1a9776705949c2b561dd3effe9405eaaa7b1ff120d6329988e55"
-
-[[files]]
-file = "mods/tx-loader.pw.toml"
-hash = "d6bf5818f52474750f6a9e4363d48903d6e82977f6666abccc25ecea3eb404c9"
-metafile = true
 
 [[files]]
 file = "mods/txloader-1.9.1.jar"
 hash = "f07a4cf1b4c100cd6a3147d727d7bb821be682c4bc6273b80f412f1913855701"
 
 [[files]]
-file = "mods/unilib.pw.toml"
-hash = "408de5a3eca40200bf5ada6088fa7b48bda5a126fb5ad875115f7385cedf7e94"
-metafile = true
-
-[[files]]
-file = "mods/unimixins.pw.toml"
-hash = "204c32630a7e04731893128d323d9eba91dc4e74526c39f70d5c0c87f474ee3b"
-metafile = true
-
-[[files]]
-file = "mods/vendingmachine-0.4.101.jar"
-hash = "59284120547623738a47444a6505d635d33d6f90052262ce81dbe00a2f773437"
-
-[[files]]
 file = "mods/vendingmachine-0.4.103.jar"
 hash = "495282bb2e6436a97add412ab7a497c4230b21df1f694532c27119823543f059"
-
-[[files]]
-file = "mods/visualprospecting-1.5.41.jar"
-hash = "531fe837c989b15646ae23f85fcec5fcff8977e66e09c16a79bae7094fd70e25"
 
 [[files]]
 file = "mods/visualprospecting-1.5.42.jar"
@@ -72559,11 +72019,6 @@ hash = "62698396e3c840668f541032c9d59966c6d3e19cc55d49f41d02e316f0c13672"
 [[files]]
 file = "mods/witchery-1.7.10-0.24.1.jar"
 hash = "68c331f624cea6c0827a31e96a6dce2e75461227c42da70f11ba765a8c6a8cec"
-
-[[files]]
-file = "mods/witchery.pw.toml"
-hash = "470e898ee9d795438bed629c7e5de4ae4d6eb608a685818d3c5460aa7b37a294"
-metafile = true
 
 [[files]]
 file = "overrides.png"
