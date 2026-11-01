@@ -1,5 +1,5 @@
-Machine Type: {yellow:BEC Condensate Detector Hatch}
-Checks the condensate amounts stored in a {gold:{item:gregtech:gt.blockmachines:15755}}.
-Emits a redstone signal when a condition is true.
-Condition is configurable in the UI.
-Leaving the condensate filter empty will sum all stored condensate.
+Тип механизма: {color_machine_type:Детектор конденсата BEC}
+Проверяет количество конденсата в {color_key:{item:gregtech:gt.blockmachines:15755}}.
+Выдаёт сигнал красного камня, когда условие выполнено.
+Условие настраивается в интерфейсе.
+Если фильтр конденсата пуст, суммируется весь хранимый конденсат.

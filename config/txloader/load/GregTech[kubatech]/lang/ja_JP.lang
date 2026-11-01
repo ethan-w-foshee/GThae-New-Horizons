@@ -6,7 +6,7 @@ kubatech.htgrrecipes=高温ガス炉
 
 #NEI
 kubatech.defusioncrafter.tier=外装Tier: %s
-kubatech.mobhandler.eec_chance=§5EECでドロップする確率: %.2f%%
+kubatech.mobhandler.eec_chance=§5EECでドロップする確率: %s%%
 kubatech.mobhandler.eec_disabled=§5EECでドロップしない
 
 #Commands
@@ -99,7 +99,7 @@ kubatech.gui.text.mia.show_machine_status=Show Machine Status
 
 kubatech.gui.tooltip.contributors.added=制作者: %s
 kubatech.gui.tooltip.contributors.design=デザイン: %s
-kubatech.gui.tooltip.contributors.structure=構造考案者: %s
+kubatech.gui.tooltip.contributors.structure=構造考案者: §d%s
 
 kubatech.gui.tooltip.dynamic_inventory.identical_slots=%d個の同一スロットがあります
 kubatech.gui.tooltip.dynamic_inventory.empty_slot=空のスロット
@@ -125,6 +125,13 @@ kubatech.chat.eec.ritual_mode_connected=儀式への接続に成功しました
 kubatech.chat.eec.ritual_mode_error=儀式に接続できません！
 kubatech.chat.eec.infernal_drops_enabled=インファーナルがスポーンする可能性があります
 kubatech.chat.eec.infernal_drops_disabled=インファーナルのスポーンを防止します
+
+kubatech.chat.mia.primary_mode.input=Changed primary mode to: Input mode
+kubatech.chat.mia.primary_mode.output=Changed primary mode to: Output mode
+kubatech.chat.mia.primary_mode.operating=Changed primary mode to: Operating mode
+kubatech.chat.mia.secondary_mode.normal=Changed secondary mode to: Normal mode
+kubatech.chat.mia.secondary_mode.swarmer=Changed secondary mode to: Swarmer mode
+kubatech.chat.mia.not_empty=§cCan't swap between Swarmer/Normal mode while Bees are present!
 
 # info data
 ## general
@@ -244,10 +251,10 @@ item.arc_furnace_electrode.tip.durability=耐久値: %s/%s
 item.arc_furnace_electrode.tip.speed=速度: %s
 item.arc_furnace_electrode.tip.parallel_limit=並列処理数: %s
 item.arc_furnace_electrode.tip.parallel_limit_none=なし
-item.arc_furnace_electrode.tip.oc=OC: %s%s
-item.arc_furnace_electrode.tip.eu_modifier=EU Modifier: %s
+item.arc_furnace_electrode.tip.overclock=Overclock: %s/%s
+item.arc_furnace_electrode.tip.eu_usage=EU Usage: %s
 item.arc_furnace_electrode.tip.startup_penalty=Startup Penalty: %s
-item.arc_furnace_electrode.tip.startup_amperage=Startup Amperage: %s A
+item.arc_furnace_electrode.tip.startup_amperage=Startup Amperage: %sA
 
 item.arc_furnace_electrode.tip.special_effect.GraphiteElectrode=§6§lBread and Butter§r§6: No startup penalty
 item.arc_furnace_electrode.tip.special_effect.GrapheneElectrode=§6§lBread and Butter§r§6: No startup penalty
@@ -341,7 +348,7 @@ KT.research.ultimatetea=全ての茶を純粋な力へと変換し%s§6§l茶§r
 kubatech.tooltip.tea=お茶
 kubatech.tooltip.tea_acceptor.0=アイテムのお茶を受け取り、自分のネットワークへ追加します
 kubatech.tooltip.tea_acceptor.1=1tickあたり最大10スタック受け取り可能です
-kubatech.tooltip.tea_storage.0=お茶の保管数を%s拡張
+kubatech.tooltip.tea_storage.0=お茶の保管数を§c%s拡張
 kubatech.tooltip.tea_ingredient.0=お茶の材料
 
 kubatech.tooltip.structure.flowers=花
@@ -391,3 +398,15 @@ gt.blockmachines.htgr.name=高温ガス冷却炉
 gt.blockmachines.industrialarcfurnace.controller.tier.single.name=産業用アーク炉
 gt.blockmachines.multimachine.defusioncrafter.name=Draconic Evolutionフュージョンクラフター
 gt.blockmachines.multimachine.extremegreenhouse.name=究極型産業用温室
+
+# HTGR fuel items
+item.HTGR.fuel.Plutonium=プルトニウム
+item.HTGR.fuel.Thorium=トリウム
+item.HTGR.fuel.Uranium=ウラン
+item.HTGRBISOPebbleCompound.name=BISO型被覆燃料粒子混合物 (%s)
+item.HTGRBurnedOutTRISOBall.name=使用済みTRISO型被覆燃料ボール (%s)
+item.HTGRBurnedOutTRISOPebble.name=使用済みTRISO型被覆燃料粒子 (%s)
+item.HTGRHTGRFuelMixture.name=HTGR用燃料混合物 (%s)
+item.HTGRTRISOBall.name=TRISO型被覆燃料ボール (%s)
+item.HTGRTRISOPebble.name=TRISO型被覆燃料粒子 (%s)
+item.HTGRTRISOPebbleCompound.name=TRISO型被覆燃料粒子混合物 (%s)

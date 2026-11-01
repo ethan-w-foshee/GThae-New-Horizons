@@ -1,11 +1,11 @@
-Accelerates the natural decay of radioactive isotopes
-Decay speed scales with the isotope's half-life and the amount stored
-Isotopes decay whether or not the warehouse is enabled or powered
-{gray:{hr}}
-Capacity is 1/400th of the {white:Super Chest}
-Only one isotope type can be stored at a time
-Insert isotopes through the input bus at a max rate of {aqua:EU/512} per second
-Power is only consumed when inputting or outputting isotopes
-{gray:{hr}}
-Right-click the controller with a {white:Screwdriver} to dump stored isotopes to the output bus
-Right-click the controller with a {white:Plunger} (or break it) to void the contents of the warehouse
+Ускоряет естественный распад радиоактивных изотопов
+Скорость распада зависит от периода полураспада изотопа и хранимого количества
+Изотопы распадаются независимо от того, включено ли хранилище и есть ли энергия
+{hr}
+Вместимость равна 1/{var:capacity_divisor} от {color_name:Супер сундука}
+Одновременно хранится только один тип изотопа
+Изотопы подаются через входной люк со скоростью до {color_eu_usage:{var:eu_per_io} {EU}} в секунду
+Энергия расходуется только при вводе и выводе изотопов
+{hr}
+Используйте {color_name:Отвёртку}, чтобы сбросить изотопы в выходной люк
+Используйте {color_name:Вантуз} (или сломайте контроллер), чтобы уничтожить содержимое хранилища

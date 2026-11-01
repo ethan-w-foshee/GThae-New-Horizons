@@ -1,12 +1,15 @@
-Contributing Green Energy towards the future
-Surround with 1-5 rings of {gold:Solar Reflectors} to generate heat
-More {gold:Solar Reflectors} means more heat and more overall power output
+为未来贡献绿色能源
+在周围建造 1-5 环{white:太阳能反射器}以产生热量
+太阳能反射器越多，热量越高，整体冷却液吞吐量也越大
+最大热量为 100,000，但达到该上限没有任何风险或危险
 {gray:{hr}}
-Converts {gold:Cold Solar Salt} into {gold:Hot Solar Salt} at a 1:1 ratio every {var:cycle} seconds
-Every 1{var:unit} converted reduces the heat by 1 until it reaches zero
-Conversion only happens if heat >= {red:{var:threshold}} and efficiency is 100%
-Excess {gold:Cold Solar Salt} is not consumed
+每 {var:cycle} 秒按 1:1 的比例将{blue:冷太阳能盐}转化为{red:热太阳能盐}
+每转化 1{var:unit}，热量降低 1，直到热量降至零
+多余的冷太阳能盐不会被消耗
 {gray:{hr}}
-Heat Efficiency = {aqua:1 - (Heat - {var:center})^{var:exp} / {var:coefficient}}, peaks at {aqua:{var:center}}
-Heat/Cycle = {aqua:Solar Reflectors * Heat Efficiency * ({var:loss} + 2^(Rings - 1)) - {var:loss}}
-{yellow:Heat gain is halved in rain and disabled at night}
+仅当{white:热量 >=} {red:{var:threshold}}且{white:效率 =} {aqua:100%}时才会发生转化
+效率初始为 {aqua:0%}，每 10 秒提高 {aqua:+1%}
+{gray:{hr}}
+{white:热量效率 =} {red:1 - (热量 - {var:center})^{var:exp} / {var:coefficient}}，峰值位于 {red:{var:center}}
+{white:每循环热量 =} {red:反射器数量 * 热量效率 * ({var:loss} + 2^(环数 - 1)) - {var:loss}}
+{yellow:下雨时热量获取减半，夜晚时停止}

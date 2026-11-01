@@ -1,57 +1,35 @@
-Creates a pocket of spacetime that is bigger on the inside using transdimensional
-engineering. Certified Time Lord regulation compliant. This multi uses too much EU
-to be handled with conventional means. All EU requirements are handled directly by
-your wireless EU network
-{gold:{hr:87}}
-This multiblock will constantly consume hydrogen and helium when it is not running a
-recipe once per second. It will store this internally, you can see the totals by
-using a scanner. This multi also has three tiered blocks with {red}9{gray} tiers
-each. They are as follows and have the associated effects on the multi:
-{blue}Spacetime Compression Field Generator:
-- The tier of this block determines what recipes can be run. If the multiblocks
-  spacetime compression field block exceeds the requirements of the recipe it
-  will decrease the processing time by {red}3%{gray} per tier over the requirement (multiplicative)
-{blue}Time Dilation Field Generator:
-- Decreases the time required for a recipe by {red}50%{gray} per tier of block (multiplicative)
-  Decreases the probability of a recipe succeeding by {red}9.25%{gray} per tier (additive)
-{blue}Stabilisation Field Generator:
-- Increases the probability of a recipe succeeding by {red}5%{gray} per tier (additive)
-  Decreases the yield of a recipe by {red}5%{gray} per tier (additive).
-  > Low tier stabilisation field generators have a power output penalty
-     The power output penalty for using Crude Stabilisation Field Generators is {red}40%
-     This penalty decreases by {red}5%{gray} per tier (additive)
-{gold:{hr:87}}
-Going over a recipe requirement on hydrogen or helium has a penalty on yield and recipe chance
-All stored hydrogen and helium is consumed during a craft. The associated formulas are:
-{green}Overflow ratio = (Stored fluid / Recipe requirement) - 1
-{green}Adjustment value = 1 - exp(-(30 * Overflow ratio)^2)
-The Adjustment value is then subtracted from the total yield and recipe chance
-{gold:{hr:87}}
-It should be noted that base recipe chance is determined per recipe and yield always starts
-at 1 and subtracts depending on penalties. All fluid/item outputs are multiplied by the
-yield. Failure fluid is exempt
-{gold:{hr:87}}
-This multiblock can only output to ME output buses/hatches
-{gold:{hr:87}}
-This multiblock can be overclocked by placing a programmed circuit into the input bus
-E.g. A circuit of 2 will provide 2 OCs, 16x EU input and 0.25x the time. EU output is unaffected
-All outputs are equal. All item and fluid output chances & amounts per recipe are unaffected
-{gold:{hr:87}}
-If a recipe fails the EOH will output {green}Success chance * 14,400 * (2.0)^(Recipe tier){gray}L of molten
-SpaceTime instead of fluid/item outputs and output as much EU as a successful recipe
-{gold:{hr:87}}
-This multiblock can perform parallel processing by placing Astral Array Fabricators into the input bus
-They are stored internally and can be retrieved via right-clicking the controller with a wire cutter
-The maximum amount of stored Astral Arrays is 8,637. Parallel amount is calculated via these formulas:
-{green}Parallel exponent = floor(log(8 * Astral Array amount) / log(1.7))
-{green}Parallel = 2^(Parallel exponent)
-If the EOH is running parallel recipes, the power calculation changes
-The power needed for parallel processing is calculated as follows:
-{green}total EU = ((EU output - EU input * 1.63) / 20.7) * 2.3^(Parallel exponent)
-Furthermore, if parallel recipes are run, the recipes consume Condensed Raw Stellar Plasma Mixture
-instead of helium and hydrogen. Overflow penalties still apply
-The required amount of fluid to start a recipe is {green}12.4 / 10^6 * Helium amount * Parallel
-The success or failure of each parallel is determined independently
-{gold:{hr:87}}
-Animations can be disabled by using a screwdriver on the multiblock
-Planet block can be inserted directly by right-clicking the controller with planet block
+차원 간 공학을 사용해 내부가 더 넓은 시공간 주머니를 만듭니다.
+타임 로드 규정 준수 인증을 받았습니다.
+{gold:{hr}}
+각각 {green:9}개 티어로 구성된 세 가지 필드 생성기를 포함합니다:
+{blue:시공간 압축}: 최대 레시피 티어를 결정하며, 레시피 티어보다 높은 티어마다 처리 시간이 {green:-3%} 감소합니다(곱연산).
+{blue:시간 팽창}: 티어마다 레시피 지속 시간이 {green:-50%} 감소하고(곱연산), 레시피 성공 확률이 {green:-9.25%} 감소합니다(합연산).
+{blue:안정화}: 티어마다 레시피 성공 확률이 {green:+5%} 증가하고(합연산), 수율이 {green:-5%} 감소합니다(합연산).
+안정화 생성기의 티어가 낮으면 총 EU 출력도 감소합니다.
+T1 원시형은 {green:-40%}에서 시작하며, 티어마다 {green:+5%}씩 증가합니다(합연산).
+{gold:{hr}}
+{blue:행성 블록}을 들고 컨트롤러를 우클릭하면 블록을 삽입하고 레시피를 설정합니다.
+기본 레시피 성공 확률 {green:(S)}은 행성 티어에 따라 달라집니다.
+성공하면 NEI에 표시된 모든 것을 출력합니다. 유체의 기본 수율은 페널티 적용 전 {green:100%}에서 시작합니다.
+실패하면 {white:시공간 =} {green:S * 14,400 * 2^(Planet Tier)}을 출력하며, 출력 EU도 생성합니다.
+여러 번 연속으로 실패하면 보정으로 성공이 보장되지만, 성공하거나 레시피를 변경하면 초기화됩니다.
+{gold:{hr}}
+유휴 상태일 때 자체 내부 버퍼에 {blue:수소}와 {blue:헬륨}을 지속적으로 입력하며, 레시피 시작 시 전량을 소모합니다.
+레시피에 필요한 최소량을 초과하면 레시피 성공 확률과 수율이 크게 감소합니다.
+{white:초과 비율 =} {green:(Stored Fluid / Min Fluid) - 1}
+{white:페널티% =} {green:1 - exp(-(30 * Overflow Ratio)^2)}
+{gold:{hr}}
+{yellow:소유자의 무선 네트워크에서 EU를 직접 소모합니다}
+입력 버스에 {white:프로그래밍 회로}를 넣어 원하는 오버클록 수를 설정합니다.
+EU 출력은 일정하며 오버클록 수에 따라 달라지지 않습니다.
+{gold:{hr}}
+입력 버스를 통해 {blue:성단 배열 제작기 (AA)}를 넣으면 병렬 작업 수가 증가합니다(최대 {blue:8,637}).
+각 작업은 성공 여부를 개별적으로 판정합니다.
+{white:병렬 지수 (PE) =} {green:floor(log(8 * AA) / log(1.7))}
+{white:병렬 작업 수 =} {green:2^(PE)}
+{gold:{hr}}
+병렬 작업 중에는 실패 보정이 적용되지 않으며 전력 계산 방식이 바뀝니다:
+{white:EU 입력 =} {green:Base EU Input * 4^OC * 2.3^PE * 1.63 / 20.7}
+{white:EU 출력 =} {green:Base EU Output * 2.3^(PE-1) / 9}
+또한 {blue:수소}와 {blue:헬륨} 대신 {blue:응축된 원시 항성 플라스마 혼합물}을 소모합니다:
+{white:원시 항성 플라스마 =} {green:12.4 / 10^6 * Helium Amount * Parallels}

@@ -21,8 +21,8 @@ spiceoflife.tooltip.to.open.food.container=Use enquanto agachado para abrir
 spiceoflife.tooltip.can.spill.food=Comida pode cair no chão enquanto aberta
 spiceoflife.tooltip.hold.key.for.details=Segure %s para detalhes
 
-spiceoflife.tooltip.diminishing=Diminishing Returns:
-spiceoflife.tooltip.extrahearts=Extra Hearts:
+spiceoflife.tooltip.diminishing=Retornos Decrescentes:
+spiceoflife.tooltip.extrahearts=Corações Extras:
 
 # Quantity descriptors
 spiceoflife.quantity.one.time=uma vez
@@ -52,3 +52,11 @@ spiceoflife.gui.title.lunchbag=Lunch Bag
 item.spiceoflife.bookfoodjournal.name=Food Journal
 item.spiceoflife.lunchbox.name=Marmita
 item.spiceoflife.lunchbag.name=Lanchinho
+
+# Chats
+spiceoflife.chat.foodstats=§l§3%s's§r food stats:
+spiceoflife.chat.foodstats.eaten=Half-Shanks worth eaten: %s
+spiceoflife.chat.foodstats.bonus=Bonus Hearts: %s
+spiceoflife.chat.foodstats.next=Half-Shanks until next bonus heart: %s
+spiceoflife.chat.foodstats.sync=Synced food history for %s
+spiceoflife.chat.reset=Reset all 'The Spice of Life' mod data for %s

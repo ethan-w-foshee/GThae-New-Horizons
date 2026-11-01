@@ -1,3 +1,2 @@
-Refines {gold:Fluorides} and {gold:Uranium} into nuclear fuel for the {white:LFTR}
-{white:LFTR Fuel 2} and {white:LFTR Fuel 3} have alternative, much more efficient recipes
-{yellow:Recipes in this multi take a very long time}
+Перерабатывает {color_name:Фториды} и {color_name:Уран} в {color_key:Расплавленные соли} для {color_name:ЖФТР}
+У {color_key:ЖФТР топлива II} и {color_key:ЖФТР топлива III} есть альтернативные, гораздо более эффективные рецепты

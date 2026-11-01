@@ -1,10 +1,10 @@
-Produces energy and new elements from Radioactive Beta Decay
-Consumes {gold:Molten Salt} as fuel at {aqua:1L/s} and {gold:LFTB} at {aqua:2L/s}
-Warm-up takes {light_purple:250s}, during which no fuel is consumed and no power is produced
-Once running, outputs {aqua:0.33L/s} of {gold:U-233} on average
-Depleted {gold:Molten Salts} are output based on the fuel used
-{gray:{hr}}
-Use four 4A dynamo hatches corresponding to the {gold:Molten Salt} tier:
-{white:LFTR Fuel 1} (EV), {white:LFTR Fuel 2} (IV), {white:LFTR Fuel 3} (LuV)
-Higher tier hatches limit EU output to 1 hatch
-{dark_red:Shuts down if either input runs out} and any excess EU is safely voided
+Производит энергию и новые элементы из радиоактивного бета-распада
+Потребляет {color_key:1 {L}/с расплавленной соли} как топливо и {color_key:2 {L}/с LFTB} как хладагент
+Прогрев длится {color_time:{var:warmup} с}, в это время топливо и хладагент не расходуются и энергия не производится
+В работе выдаёт в среднем {white:0,33 {L}/с U-233}
+По завершении выдаёт разные {color_hot:Обеднённые расплавленные соли} в зависимости от топлива
+{hr}
+Используйте четыре энерговывода 4A, соответствующих тиру расплавленной соли:
+{color_key:ЖФТР топливо I} ({var:tier1}), {color_key:ЖФТР топливо II} ({var:tier2}), {color_key:ЖФТР топливо III} ({var:tier3})
+С энерговыводами более высокого тира {EU} выдаёт только 1 энерговывод
+{color_danger:Выключается, если кончится любой из входов}, лишняя {EU} безопасно уничтожается
