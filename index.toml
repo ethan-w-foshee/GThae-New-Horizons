@@ -1,2 +1,37 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "gtnh_icon.png"
+hash = "2767f0cd106b79417f6cb7910694ab3fe282093d43207fa94c390d8c02d66c2c"
+
+[[files]]
+file = "instance.cfg"
+hash = "2284136a4aa425b73aac13e396e28571cecfaeed0cdfa6527cf1b087cf72e92c"
+
+[[files]]
+file = "libraries/lwjgl3ify-3.0.42-forgePatches.jar"
+hash = "4a772fa88485448ecd8b6a82b426523b2058b6e901d2d766e8d9f62113fde73e"
+
+[[files]]
+file = "mmc-pack.json"
+hash = "ffa2d1bc2dcbe2a4c89deda3479ecc09ed612620f15a64b8c411ba7350535fd4"
+
+[[files]]
+file = "patches/me.eigenraven.lwjgl3ify.forgepatches.json"
+hash = "b8ece25b16a4e6eac0a67f8dd9fbd63ed647ab8ea2601f139790ebb88b6a2647"
+
+[[files]]
+file = "patches/me.eigenraven.lwjgl3ify.launchargs.json"
+hash = "1fd775c91debe219e215860c4347a1cf59ba0a1f09ad9dea60261bc450710238"
+
+[[files]]
+file = "patches/net.minecraft.json"
+hash = "9276ce7e404efd1acf2d3ee2ad511be1a54fe387ebae598bb53e640123055f20"
+
+[[files]]
+file = "patches/net.minecraftforge.json"
+hash = "f3d005d90a343d39a92c43e9af472af29a0e4c476327e28448b83a7c3e601ace"
+
+[[files]]
+file = "patches/org.lwjgl3.json"
+hash = "38df257ebcfb417fb825401f3f32f27f38edd77f94283b7d497d43f6086a1903"
