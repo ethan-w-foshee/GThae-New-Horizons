@@ -1,2 +1,0 @@
-Скорость {color_speed:{var:speed}%}, {color_speed:+{var:speed_bonus}%} за тир {color_name:нагревательной катушки}
-Потребление {EU}: {color_efficiency:{var:eu_eff}%}, {color_efficiency:x{var:eu_eff_bonus}} за тир {color_name:нагревательной катушки}
