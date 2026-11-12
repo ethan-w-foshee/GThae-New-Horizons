@@ -1,6 +1,2 @@
 hash-format = "sha256"
-
-[[files]]
-file = "gt-new-horizons.pw.toml"
-hash = "ec669374b136df0c0cd78e0ed17aa5698c129b3ea9e615e50408c273a4532cbd"
-metafile = true
+files = []
