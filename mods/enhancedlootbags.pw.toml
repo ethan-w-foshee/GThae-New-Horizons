@@ -1,0 +1,13 @@
+name = "EnhancedLootBags"
+filename = "EnhancedLootBags-1.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5633b3115fd30f88389c9d72289a9f7823b40a62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9221435
+project-id = 385874

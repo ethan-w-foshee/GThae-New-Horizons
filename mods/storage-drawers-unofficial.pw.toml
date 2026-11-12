@@ -1,0 +1,13 @@
+name = "Storage Drawers Unofficial"
+filename = "StorageDrawers-2.2.31-GTNH.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0c485e7341bfeedec06d65da94799e13e557749"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8907468
+project-id = 1099276

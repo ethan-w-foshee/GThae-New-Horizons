@@ -1,0 +1,13 @@
+name = "JarJar"
+filename = "jarjar-0.3.7-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0ab3d554dfc4a299de45264e2124d2f30e5f1e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8270417
+project-id = 1215676

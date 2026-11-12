@@ -1,0 +1,13 @@
+name = "TX Loader"
+filename = "txloader-1.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "038116aa27f9cf12c0c87d6b87559310992a5993"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8907486
+project-id = 706505

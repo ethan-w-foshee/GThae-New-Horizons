@@ -1,0 +1,13 @@
+name = "DefaultServerList"
+filename = "defaultserverlist-1.7.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d39ab8f0daad0440f540a80f605962d29b93c50e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8214083
+project-id = 577749

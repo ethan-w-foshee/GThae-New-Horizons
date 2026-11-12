@@ -1,0 +1,13 @@
+name = "lwjgl3ify"
+filename = "lwjgl3ify-3.0.42.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4787e3faf6bd95c222851667ecaef4cefc1afa0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9376133
+project-id = 998880

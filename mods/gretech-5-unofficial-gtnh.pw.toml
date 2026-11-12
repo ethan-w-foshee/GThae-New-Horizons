@@ -1,0 +1,13 @@
+name = "Gretech 5 Unofficial GTNH"
+filename = "gregtech-5.09.54.265.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "659b70e90aae915424a1e07ac5f7ef2a9075f220"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9383283
+project-id = 1702647

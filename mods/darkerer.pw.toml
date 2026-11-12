@@ -1,0 +1,13 @@
+name = "Darkerer"
+filename = "darkerer-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5300d35493f0b32d2adc20cba402e0027464408"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7548054
+project-id = 1215472

@@ -1,0 +1,13 @@
+name = "BugTorch"
+filename = "bugtorch-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d18bb0db6dfac7f09eea3343886b4fd282aeddc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9050798
+project-id = 1724908

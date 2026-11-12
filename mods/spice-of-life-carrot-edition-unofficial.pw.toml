@@ -1,0 +1,13 @@
+name = "SOL - Carrot [Unofficial] 1.7.10"
+filename = "SpiceOfLife-2.2.12-carrot.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61a0c6e42ea207674422734b70bb32b2a3099f30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9238541
+project-id = 782155

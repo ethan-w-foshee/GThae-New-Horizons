@@ -1,0 +1,13 @@
+name = "Personal Space"
+filename = "personalspace-1.0.41.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "233594e333cc7fefeb924f82c9bebf2549b9a81e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8907447
+project-id = 819596

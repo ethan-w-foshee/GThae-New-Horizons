@@ -1,0 +1,13 @@
+name = "YAM Core"
+filename = "YAMCore-0.7.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fca3c9594cdde547b874fb6b9df8047dd4b8aac9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9221427
+project-id = 385873

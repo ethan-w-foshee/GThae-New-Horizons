@@ -1,0 +1,13 @@
+name = "Amazing Trophies"
+filename = "amazingtrophies-1.4.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d3cdcde6df3f1d4aa71c74392e21c352fac651e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8905361
+project-id = 945755

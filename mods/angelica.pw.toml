@@ -1,0 +1,13 @@
+name = "Angelica"
+filename = "angelica-2.2.43.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0b81bf03091503ea0a801d73cc892d283d4682f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9380069
+project-id = 988067
